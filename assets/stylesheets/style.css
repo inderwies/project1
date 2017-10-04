@@ -4,7 +4,7 @@ html {
   margin: auto;
 }
 
-p {
+p, h1, h2, nav, li {
   font-family: 'Droid Sans', sans-serif;
   color: #333;
 }
@@ -12,6 +12,26 @@ h1 {
   font-size: 2em;
 }
 
-ul {
+h2 {
+  font-size: 1.4em;
+}
+
+li {
+  line-height: .4em;
   list-style-image: none;
+}
+
+nav {
+  display: inline-block;
+  padding: .5em;
+  color: #eee;
+}
+
+header {
+  background-color: #8c86aa;
+}
+
+footer {
+  text-align: center;
+  padding: 0;
 }
