@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Abril+Fatface');
+
+html {
+  margin: auto;
+}
+
+p {
+  font-family: 'Droid Sans', sans-serif;
+  color: #333;
+}
+h1 {
+  font-size: 2em;
+}
+
+ul {
+  list-style-image: none;
+}
